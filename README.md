@@ -47,7 +47,7 @@
 - description: 문제 주소 (option)
 - 터미널에서 작성법: 
 ```
-git commit -m "[BOJ] 1874 / 실버3 / 40분 / 권성호" 
+git commit -m "[BOJ] 1874 / 실버3 / 40분 / 이현주" 
 ```
 - 플랫폼 작성법 통일: 
   * [BOJ] - 백준 
@@ -82,8 +82,6 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분 / 권성호"
 3) push 완료 후 GitHub branch 페이지에 들어오면 Pull Request(PR)할건지 버튼이 생깁니다. 클릭!
 4) <b>스터디 시간 전에 merge</b>하면 됩니다. (merge 후 branch는 삭제해도 됩니다.)
 5) 코드 리뷰는 스터디 시간에 진행합니다.
-   
-#### 일단 이렇게 정리해 봤습니다,, 보완할 부분 있으면 자유롭게 수정해주세요! :smile:
 
 <br />
 <br />
