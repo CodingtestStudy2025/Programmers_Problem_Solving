@@ -11,6 +11,8 @@
 | 주차    | 날짜                                                         | 기출 유형           | 문제명                                                       | 난이도                                                       | 풀이여부                      | 풀이 링크                       |
 | ------- | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | :------------------------------------------------------------: | :-----------------------------: | ------------------------------- |
 | Week 01 | 25.08.28<br /> | 해시 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)<br/> [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)<br/> |  Level 2<br/> Level 2<br/> | 🟩⛔<br /> 🟩⛔<br /> | <a href="./Week1">바로가기</a> |
+| Week 01 | 25.08.29<br /> | 스택/큐 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)<br/> [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)<br/> |  Level 2<br/> Level 2<br/> | 🟩⛔<br /> 🟩⛔<br /> | <a href="./Week1">바로가기</a> |
+| Week 01 | 25.08.30<br /> | 스택/큐<br />힙<br /> | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)<br/> [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)<br/> |  Level 2<br/> Level 2<br/> | 🟩⛔<br /> 🟩⛔<br /> | <a href="./Week1">바로가기</a> |
 
 <br />
 <br />
